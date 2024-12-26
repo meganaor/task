@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+
+    width: 100%;
+    min-height: 100vh;
+    margin: 0 auto;
+    
+}
+
+.ad1{
+    width: 728px;
+    min-height: 100px;
+    margin: 0 auto;
+    border: 1px solid red; /* Sets a 1px solid border with red color */
+      
+}
+
+.layout{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2px;
+
+}
+
+.p1{
+    width: 30%;
+    border: 1px solid red; /* Sets a 1px solid border with red color */
+}
+.p2{
+    width: 40%;
+    border: 1px solid red; /* Sets a 1px solid border with red color */
+}
+.p3{
+    width: 30%;
+    border: 1px solid red; /* Sets a 1px solid border with red color */
+}
+
